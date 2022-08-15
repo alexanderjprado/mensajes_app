@@ -1,0 +1,7 @@
+pom.xml
+.idea
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/libraries/mysql_connector_java.xml
